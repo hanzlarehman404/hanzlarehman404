@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanzla Rehman</h1>
-<h3 align="center">A passionate Computer Scientists</h3>
+<h3 align="center">A passionate Computer Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzlarehman404&label=Profile%20views&color=0e75b6&style=flat" alt="hanzlarehman404" /> </p>
 
